@@ -26,7 +26,7 @@ This project implements an AI-powered image captioning tool that can generate de
 
 1. Clone the repository
 2. Install the required packages: `pip install -r requirements.txt`
-3. Download the Flickr8k dataset and place it in the appropriate directory.
+3. Download the Flickr8k dataset and place it in the appropriate directory using `dataset.sh` or the link [DATASET](https://www.kaggle.com/api/v1/datasets/download/adityajn105/flickr8k).
 4. Run the `train.py` script to train the model.
 5. Use the `predict.py` script to generate captions for new images.
 
